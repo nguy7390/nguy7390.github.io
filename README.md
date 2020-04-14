@@ -1,5 +1,5 @@
-### Hieu N
-# @nguy7390
+# Hieu N
+### @nguy7390
 
 ## Projects
 RL_agent 
